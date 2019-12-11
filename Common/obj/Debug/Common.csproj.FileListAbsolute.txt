@@ -1,0 +1,6 @@
+C:\Users\truong.le\source\repos\rest\Common\bin\Debug\Common.dll
+C:\Users\truong.le\source\repos\rest\Common\bin\Debug\Common.pdb
+C:\Users\truong.le\source\repos\rest\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\truong.le\source\repos\rest\Common\obj\Debug\Common.dll
+C:\Users\truong.le\source\repos\rest\Common\obj\Debug\Common.pdb
+C:\Users\truong.le\source\repos\rest\Common\obj\Debug\Common.csprojAssemblyReference.cache
